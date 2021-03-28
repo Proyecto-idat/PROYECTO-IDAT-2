@@ -31,6 +31,9 @@
 #productos{
 	border: none;
 }
+nav button{
+    margin-left: 10px
+}
 #lupa{
 	font-size: 15px
 }
